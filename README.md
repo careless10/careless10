@@ -5,7 +5,7 @@
 
 Hello,أهلا, I'm Menawer, I build websites and backends for varios application, I do teach web developement aswell occasionally, I do enjoy teaching its such a wonderful experience, I talk about web and mostly about JS, i am also a PHP developer, using Laravel for backends.
 
-I work at [Boubyan](https://www.bankboubyan.com) as a Software Engineer. For more information about me , check out [Menawer](https://www.menawer.com/).
+I work at [Boubyan](https://boubyan.bankboubyan.com/en/) as a Software Engineer. For more information about me , check out [Menawer](https://www.menawer.com/).
 
 <!--
 **careless10/careless10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

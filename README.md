@@ -3,7 +3,7 @@
 [![Menawer portfolio.](https://raw.githubusercontent.com/careless10/careless10/master/portfolio.jpg)](https://www.menawer.com)
 
 
-Hello,أهلا, I'm Menawer, I build websites and backends for varios application, I do teach web developement aswell occasionally, I do enjoy teaching its such a wonderful experience, I talk about web and mostly about JS, i am also a PHP developer, using Laravel for backends.
+Hello,أهلا, I'm Menawer, I build websites and backends for various applications, I do teach web developement aswell occasionally, I do enjoy teaching its such a wonderful experience, I talk about web and mostly about JS, i am also a PHP developer aswell, using Laravel for backends.
 
 I work at [Boubyan](https://boubyan.bankboubyan.com/en/) as a Software Engineer. For more information about me , check out [Menawer](https://www.menawer.com/).
 

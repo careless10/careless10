@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Menawer portfolio.](/portfolio.jpg)](https://www.menawer.com)
+[![Menawer portfolio.](https://raw.githubusercontent.com/careless10/careless10/master/portfolio.jpg)](https://www.menawer.com)
 
 
 Hello,أهلا, I'm Menawer, I build websites and backends for varios application, I do teach web developement aswell occasionally, I do enjoy teaching its such a wonderful experience, I talk about web and mostly about JS, i am also a PHP developer, using Laravel for backends.
